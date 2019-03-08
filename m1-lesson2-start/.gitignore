@@ -21,3 +21,4 @@ hs_err_pid*
 !/um-webapp/target/
 /classes/artifacts/um_webapp_m1_l2_start_war_exploded/WEB-INF/classes/application.properties
 /um-webapp/target/
+/classes/
